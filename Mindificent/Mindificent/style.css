@@ -1,0 +1,548 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+#divApplab.appModern button.appModernDesign,
+#divApplab.appModern button.appModernDesign:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label.appModernDesign,
+#divApplab.appModern label.appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text].appModernDesign,
+#divApplab.appModern input[type=text].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox].appModernDesign,
+#divApplab.appModern input[type=checkbox].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select.appModernDesign,
+#divApplab.appModern select.appModernDesign:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio].appModernDesign,
+#divApplab.appModern input[type=radio].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea.appModernDesign,
+#divApplab.appModern div.textArea.appModernDesign:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img.appModernDesign,
+#divApplab.appModern img.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas.appModernDesign,
+#divApplab.appModern canvas.appModernDesign:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen.appModernDesign,
+#divApplab.appModern div.screen.appModernDesign:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart.appModernDesign,
+#divApplab.appModern div.chart.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range].appModernDesign,
+#divApplab.appModern input[type=range].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #homeScreen {
+  background-color: rgb(12, 43, 77);
+}
+
+#divApplab.appModern #asteroidBtn {
+  height: 60px;
+  width: 85px;
+  left: 230px;
+  top: 225px;
+}
+
+#divApplab.appModern #startI {
+  height: 60px;
+  width: 85px;
+  top: 70px;
+  left: 230px;
+}
+
+#divApplab.appModern #otherBtn {
+  height: 60px;
+  width: 85px;
+  top: 145px;
+  left: 230px;
+}
+
+#divApplab.appModern #infoImageLbl {
+  font-size: 18px;
+  color: rgb(237, 235, 235);
+  width: 220px;
+  height: 70px;
+  left: 1.11022e-16px;
+  top: 90px;
+}
+
+#divApplab.appModern #infoRSLBL {
+  font-size: 17px;
+  color: rgb(237, 235, 235);
+  width: 205px;
+  height: 40px;
+  top: 165px;
+  left: 1px;
+}
+
+#divApplab.appModern #image2 {
+  height: 110px;
+  width: 190px;
+  left: -45px;
+  top: -10px;
+}
+
+#divApplab.appModern #label4 {
+  font-size: 17px;
+  color: rgb(255, 255, 255);
+  width: 240px;
+  height: 45px;
+  top: 245px;
+  left: 1px;
+}
+
+#divApplab.appModern #dScreen {
+  background-color: rgb(12, 43, 77);
+  display: none;
+}
+
+#divApplab.appModern #outputImage {
+  height: 180px;
+  width: 280px;
+  left: 15px;
+  top: 40px;
+  object-fit: fill;
+  font-family: "object-fit: fill;";
+}
+
+#divApplab.appModern #outputTextArea {
+  width: 275px;
+  height: 140px;
+  color: rgb(249, 249, 249);
+  background-color: rgb(8, 16, 24);
+  left: 20px;
+  top: 250px;
+}
+
+#divApplab.appModern #label1 {
+  font-size: 15px;
+  color: rgb(245, 240, 240);
+  width: 290px;
+  height: 35px;
+  left: 15px;
+  top: 405px;
+}
+
+#divApplab.appModern #titleLabel {
+  font-size: 16px;
+  color: rgb(235, 229, 229);
+  width: 300px;
+  height: 35px;
+  left: 10px;
+  top: 5px;
+}
+
+#divApplab.appModern #homeI {
+  left: 260px;
+  top: 390px;
+  width: 60px;
+  height: 60px;
+}
+
+#divApplab.appModern #loadingScreen {
+  background-size: 320px 450px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  display: none;
+}
+
+#divApplab.appModern #image1 {
+  height: 305px;
+  width: 320px;
+  top: 60px;
+}
+
+#divApplab.appModern #roverScreen {
+  background-color: rgb(12, 54, 115);
+  display: none;
+}
+
+#divApplab.appModern #text_area1 {
+  width: 310px;
+  font-size: 40px;
+  height: 250px;
+  top: 35px;
+  left: 5px;
+}
+
+#divApplab.appModern #lastBtn {
+  height: 70px;
+  width: 150px;
+  font-size: 30px;
+  left: 5px;
+  top: 375px;
+  background-color: rgb(0, 0, 0);
+}
+
+#divApplab.appModern #nextBtn {
+  height: 70px;
+  width: 150px;
+  font-size: 30px;
+  left: 165px;
+  top: 375px;
+  background-color: rgb(0, 0, 0);
+}
+
+#divApplab.appModern #addText {
+  width: 245px;
+  height: 25px;
+  left: 70px;
+  top: 315px;
+  font-size: 10px;
+}
+
+#divApplab.appModern #addBtn {
+  height: 25px;
+  width: 60px;
+  font-size: 16px;
+  left: 255px;
+  top: 345px;
+  background-color: rgb(0, 0, 0);
+}
+
+#divApplab.appModern #indexLabel {
+  font-size: 20px;
+  color: rgb(228, 236, 237);
+  width: 210px;
+  height: 45px;
+  left: 35px;
+  top: 40px;
+}
+
+#divApplab.appModern #thingsLabel {
+  width: 233px;
+  height: 29px;
+  left: 3px;
+  font-size: 24px;
+  top: 3px;
+}
+
+#divApplab.appModern #roverPics {
+  height: 215px;
+  width: 310px;
+  left: 5px;
+  top: 100px;
+  object-fit: fill;
+  font-family: "object-fit: fill;";
+}
+
+#divApplab.appModern #addTextURL {
+  width: 180px;
+  height: 30px;
+  left: 70px;
+  top: 345px;
+}
+
+#divApplab.appModern #label2 {
+  font-size: 12px;
+  width: 66px;
+  height: 16px;
+  top: 350px;
+}
+
+#divApplab.appModern #label3 {
+  font-size: 11px;
+  width: 70px;
+  height: 15px;
+  top: 320px;
+}
+
+#divApplab.appModern #strtBtnRS {
+  height: 75px;
+  width: 215px;
+  background-color: rgb(17, 18, 18);
+  left: 55px;
+  top: 165px;
+}
+
+#divApplab.appModern #backBtnToSD {
+  height: 50px;
+  left: 175px;
+  top: 1.11022e-16px;
+  width: 50px;
+}
+
+#divApplab.appModern #homefromRSBtn {
+  height: 50px;
+  width: 50px;
+  left: 270px;
+}
+
+#divApplab.appModern #labelErrorRS {
+  font-size: 20px;
+  color: rgb(248, 244, 244);
+  width: 215px;
+  height: 35px;
+  left: 50px;
+  top: 110px;
+}
+
+#divApplab.appModern #selectDayScreen {
+  display: none;
+}
+
+#divApplab.appModern #dayinputArea {
+  left: 45px;
+  top: 120px;
+}
+
+#divApplab.appModern #labelDirections {
+  width: 244px;
+  left: 10px;
+  top: 70px;
+}
+
+#divApplab.appModern #arrowNextRSButton {
+  left: 210px;
+  top: 340px;
+}
+
+#divApplab.appModern #label5 {
+  width: 305px;
+  height: 85px;
+  left: 10px;
+  top: 265px;
+}
+
+#divApplab.appModern #homeBtnFromSelectDay {
+  top: 340px;
+}
+
+#divApplab.appModern #FindAsteroidScreen {
+  display: none;
+}
+
+#divApplab.appModern #startDateInput {
+  width: 195px;
+  height: 30px;
+  left: 60px;
+  top: 65px;
+}
+
+#divApplab.appModern #labelStart {
+  width: 90px;
+  height: 20px;
+  left: 10px;
+  top: 40px;
+}
+
+#divApplab.appModern #endDateInput {
+  width: 195px;
+  height: 30px;
+  left: 60px;
+  top: 180px;
+}
+
+#divApplab.appModern #labelEnd {
+  width: 95px;
+  height: 20px;
+  left: 10px;
+  top: 155px;
+}
+
+#divApplab.appModern #submitBtn {
+  left: 115px;
+  top: 355px;
+}
+
+#divApplab.appModern #displayAsteroidScreen {
+  display: none;
+}
+
+#divApplab.appModern #asteroidID {
+  width: 305px;
+  height: 195px;
+  left: 5px;
+  top: 20px;
+}
+
+#divApplab.appModern #asteroidName {
+  width: 200px;
+  height: 35px;
+  left: 5px;
+  top: 65px;
+}
+
+#divApplab.appModern #diamterMin {
+  width: 315px;
+  height: 20px;
+  left: 5px;
+  top: 110px;
+}
+
+#divApplab.appModern #diameterMax {
+  width: 315px;
+  height: 20px;
+  left: 5px;
+  top: 170px;
+}
+
+#divApplab.appModern #backBtnFromDisplayAsteroid {
+  top: 350px;
+}
+
+#divApplab.appModern #homeBtnFromDisplayAsteroid {
+  left: 220px;
+  top: 350px;
+}
+
+#divApplab.appModern #hazardous {
+  width: 230px;
+  height: 20px;
+  left: 10px;
+  top: 225px;
+}
