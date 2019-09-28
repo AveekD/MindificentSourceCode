@@ -1,5 +1,5 @@
 # MindificentSourceCode
-Built using Js and NASA apis. The app pulls from various NASA APIs to display information such as the "Image of the Day," "Mars Rover Catalogue," and any incoming hazardous asteroids. Cross-compatible across both Android and IOS.
+Space education built using Js and open source APIs. The app pulls from various NASA APIs to display information such as the "Image of the Day," "Mars Rover Catalogue," and any incoming hazardous asteroids. Cross-compatible across both Android and IOS.
 
 # README for Mindificent #
 
