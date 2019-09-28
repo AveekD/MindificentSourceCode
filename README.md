@@ -24,7 +24,7 @@ The files in this folder contain everything you need to run the app:
 
  # App in use
  
-![Home Screen]()
+![Home Screen](https://github.com/AveekD/MindificentSourceCode/blob/master/Home_Screen.png)
 ![Rover Viewbook Date Screen](https://github.com/AveekD/MindificentSourceCode/blob/master/MarsRoverViewBook.png)
 ![Rover Viewbook Images](https://github.com/AveekD/MindificentSourceCode/blob/master/RoverViewbookImages.png)
 ![Image of The Day](https://github.com/AveekD/MindificentSourceCode/blob/master/MindificentImageOfDay.png)
