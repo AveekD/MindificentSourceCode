@@ -1,5 +1,5 @@
 # MindificentSourceCode
-Space education app
+Built using Js and NASA apis. The app pulls from various NASA APIs to display information such as the "Image of the Day," "Mars Rover Catalogue," and any incoming hazardous asteroids. Cross-compatible across both Android and IOS.
 
 # README for Mindificent #
 
@@ -21,8 +21,17 @@ The files in this folder contain everything you need to run the app:
 
 * `assets` - This is a directory with all the asset files (pictures and sounds)
  
- 
+
  # App in use
  
+![Home Screen]()
+![Rover Viewbook Date Screen](https://github.com/AveekD/MindificentSourceCode/blob/master/MarsRoverViewBook.png)
+![Rover Viewbook Images](https://github.com/AveekD/MindificentSourceCode/blob/master/RoverViewbookImages.png)
+![Image of The Day](https://github.com/AveekD/MindificentSourceCode/blob/master/MindificentImageOfDay.png)
+![Hazardous Asteroid Detection](https://github.com/AveekD/MindificentSourceCode/blob/master/HazardousAsteroidDetection.png)
+
+
+
+
  
  
