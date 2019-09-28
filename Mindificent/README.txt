@@ -1,9 +1,5 @@
 # README for Mindificent #
 
-This is the README file for the Mindificent app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
-
 The files in this folder contain everything you need to run your app:
 
 * `applab/applab.js` - This file contains the applab library, which has all the
